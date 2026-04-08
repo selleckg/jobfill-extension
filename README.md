@@ -4,7 +4,7 @@ JobFill Extension Application Home
 Installation: 
 Step 1 — Unzip
   
-  Right-click on the .zip file and extract it to a folder which you'll leave in place (don't delete it after — Chrome needs the folder to stay where it is).
+  Right-click on the jobfill-autofill-extension43.zip file  shown within this GIT and extract it to a folder which you'll leave in place (don't delete it after — Chrome needs the folder to stay where it is).
 
 Step 2 — Open Chrome Extensions
   In Chrome, go to the address bar and type:
